@@ -17,7 +17,7 @@ const Introduction = ({ selectedLang }: IntroductionProps) => {
       <div className="doc-section">
         <article className="code-column text-foreground">
           <p>
-            All views and tables in the <code>public</code> schema and accessible by the active
+            All views and tables in the <code>public</code> schema are accessible by the active
             database role for a request are available for querying.
           </p>
         </article>
